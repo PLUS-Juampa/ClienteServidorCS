@@ -1,0 +1,10 @@
+c:\users\juam_\Source\Repos\ChatClientGUI\ChatClientGUI\bin\Debug\ChatClientGUI.exe.config
+c:\users\juam_\Source\Repos\ChatClientGUI\ChatClientGUI\bin\Debug\ChatClientGUI.exe
+c:\users\juam_\Source\Repos\ChatClientGUI\ChatClientGUI\bin\Debug\ChatClientGUI.pdb
+c:\users\juam_\Source\Repos\ChatClientGUI\ChatClientGUI\obj\Debug\ChatClientGUI.Form1.resources
+c:\users\juam_\Source\Repos\ChatClientGUI\ChatClientGUI\obj\Debug\ChatClientGUI.Properties.Resources.resources
+c:\users\juam_\Source\Repos\ChatClientGUI\ChatClientGUI\obj\Debug\ChatClientGUI.csproj.GenerateResource.Cache
+c:\users\juam_\Source\Repos\ChatClientGUI\ChatClientGUI\obj\Debug\ChatClientGUI.csproj.CoreCompileInputs.cache
+c:\users\juam_\Source\Repos\ChatClientGUI\ChatClientGUI\obj\Debug\ChatClientGUI.exe
+c:\users\juam_\Source\Repos\ChatClientGUI\ChatClientGUI\obj\Debug\ChatClientGUI.pdb
+C:\Users\juam_\Source\Repos\ChatClientGUI\ChatClientGUI\obj\Debug\ChatClientGUI.csprojResolveAssemblyReference.cache
