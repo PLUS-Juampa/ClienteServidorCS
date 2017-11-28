@@ -8,3 +8,13 @@ c:\users\juam_\Source\Repos\ChatClientGUI\ChatClientGUI\obj\Debug\ChatClientGUI.
 c:\users\juam_\Source\Repos\ChatClientGUI\ChatClientGUI\obj\Debug\ChatClientGUI.exe
 c:\users\juam_\Source\Repos\ChatClientGUI\ChatClientGUI\obj\Debug\ChatClientGUI.pdb
 C:\Users\juam_\Source\Repos\ChatClientGUI\ChatClientGUI\obj\Debug\ChatClientGUI.csprojResolveAssemblyReference.cache
+C:\Users\juam_\Source\Repos\ClienteServidor xD\ChatClientGUI\ChatClientGUI\bin\Debug\ChatClientGUI.exe.config
+C:\Users\juam_\Source\Repos\ClienteServidor xD\ChatClientGUI\ChatClientGUI\bin\Debug\ChatClientGUI.exe
+C:\Users\juam_\Source\Repos\ClienteServidor xD\ChatClientGUI\ChatClientGUI\bin\Debug\ChatClientGUI.pdb
+C:\Users\juam_\Source\Repos\ClienteServidor xD\ChatClientGUI\ChatClientGUI\obj\Debug\ChatClientGUI.csprojResolveAssemblyReference.cache
+C:\Users\juam_\Source\Repos\ClienteServidor xD\ChatClientGUI\ChatClientGUI\obj\Debug\ChatClientGUI.Form1.resources
+C:\Users\juam_\Source\Repos\ClienteServidor xD\ChatClientGUI\ChatClientGUI\obj\Debug\ChatClientGUI.Properties.Resources.resources
+C:\Users\juam_\Source\Repos\ClienteServidor xD\ChatClientGUI\ChatClientGUI\obj\Debug\ChatClientGUI.csproj.GenerateResource.Cache
+C:\Users\juam_\Source\Repos\ClienteServidor xD\ChatClientGUI\ChatClientGUI\obj\Debug\ChatClientGUI.csproj.CoreCompileInputs.cache
+C:\Users\juam_\Source\Repos\ClienteServidor xD\ChatClientGUI\ChatClientGUI\obj\Debug\ChatClientGUI.exe
+C:\Users\juam_\Source\Repos\ClienteServidor xD\ChatClientGUI\ChatClientGUI\obj\Debug\ChatClientGUI.pdb

@@ -20,11 +20,16 @@ namespace ChatClientGUI
         TcpClient client;
         NetworkStream ns;
         Thread t = null;
-        private const string hostName = "localhost";
+        
 
-        public Form1()
+        public Form1()  
         {
+            
+
             InitializeComponent();
+
+            string hostName = txtIp.Text;
+
             client = new TcpClient(hostName, portNum);
             ns = client.GetStream();
             String s = "\nConnected\n";
@@ -66,6 +71,11 @@ namespace ChatClientGUI
             {
                 this.textBox1.Text = this.textBox1.Text + text;
             }
+        }
+
+        private void txtIp_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

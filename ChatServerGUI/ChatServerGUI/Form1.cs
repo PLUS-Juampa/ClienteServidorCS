@@ -37,6 +37,7 @@ namespace ChatServerGUI
             String s = "\n" + textBox2.Text + "\n";
             byte[] byteTime = Encoding.ASCII.GetBytes(s);
             ns.Write(byteTime, 0, byteTime.Length);
+            t.Suspend();
         }
 
         // This is run as a thread
@@ -62,7 +63,7 @@ namespace ChatServerGUI
             }
             else
             {
-                this.textBox2.Text = this.textBox2.Text + text;
+                this.textBox2.Text = this.textBox2.Text + text + "\n";
             }
         }
     }
